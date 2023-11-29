@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"flameworkVersion": "1.0.0-beta.24",
+	"identifiers": {
+		"prove-myself:out/client/controllers/InputReflex@InputReflex": "client/controllers/InputReflex@InputReflex",
+		"prove-myself:out/server/services/InputReciever@InputReciever": "server/services/InputReciever@InputReciever",
+		"prove-myself:out/server/services/Movesets/Combat/init@Combat": "server/services/Movesets/Combat/init@Combat",
+		"prove-myself:out/shared/networking@GlobalEvents": "shared/networking@GlobalEvents",
+		"prove-myself:out/shared/networking@GlobalFunctions": "shared/networking@GlobalFunctions",
+		"prove-myself:out/server/services/InputReciever@Inputs": "server/services/InputReciever@Inputs",
+		"prove-myself:out/shared/utils/Cooldown@Cooldown": "shared/utils/Cooldown@Cooldown",
+		"prove-myself:out/server/services/MovesetController@MovesetController": "server/services/MovesetController@MovesetController",
+		"prove-myself:out/client/controllers/MovesetController@MovesetController": "client/controllers/MovesetController@MovesetController",
+		"prove-myself:out/server/services/MovesetService@MovesetService": "server/services/MovesetService@MovesetService",
+		"prove-myself:out/client/controllers/UIController@UIController": "client/controllers/UIController@UIController",
+		"prove-myself:out/server/services/Movesets/Movement/init@Combat": "server/services/Movesets/Movement/init@Combat",
+		"prove-myself:out/client/controllers/ClientHandler@ClientHandler": "client/controllers/ClientHandler@ClientHandler",
+		"prove-myself:out/client/controllers/Movesets/Movement/Run@Run": "client/controllers/Movesets/Movement/Run@Run",
+		"prove-myself:out/client/utils/CameraFilePlayer@CameraFillePlayer": "client/utils/CameraFilePlayer@CameraFillePlayer"
+	},
+	"metadata": {}
+}
